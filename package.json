@@ -1,0 +1,24 @@
+{
+  "name": "fluxi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluxiunblocker/Fluxi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fluxiunblocker/Fluxi/issues"
+  },
+  "homepage": "https://github.com/fluxiunblocker/Fluxi#readme",
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
